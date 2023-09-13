@@ -29,3 +29,4 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/YoshySET/posts.svg" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshySET)](https://github.com/YoshySET/github-readme-stats)
