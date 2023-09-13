@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YoshySET&show_icons=true&count_private=true&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact" />
+</a>
+
 <!--
 **YoshySET/YoshySET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="left">
   <a href="https://github.com/YoshySET/YoshySET/">
     <img src="https://komarev.com/ghpvc/?username=YoshySET" alt="YoshySET" />
@@ -29,4 +38,4 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/YoshySET/posts.svg" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshySET)](https://github.com/anuraghazra/github-readme-stats)
+
