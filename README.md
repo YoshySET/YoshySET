@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <img src="./images/eyeCatch.png" />
 
+# Hi there 👋
+---
 <a href="https://github.com/YoshySET">
   <img src="https://github-readme-stats.vercel.app/api?username=YoshySET&show_icons=true&count_private=true&theme=shadow_blue" />
 </a>
