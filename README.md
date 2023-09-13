@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=YoshySET&show_icons=true&count_private=true&theme=shadow_blue" />
   </a>
   <a href="https://github.com/YoshySET">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshySET&theme=shadow_blue" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshySET&layout=compact&theme=shadow_blue" />
   </a>
 </div>
 
