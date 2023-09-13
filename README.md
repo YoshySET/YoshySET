@@ -1,4 +1,4 @@
-<img src="./images/eyeCatch2.png" />
+<img align="center" width="100%" src="./images/eyeCatch2.png" />
 
 # Hi there 👋
 ---
