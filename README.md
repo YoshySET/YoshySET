@@ -2,11 +2,11 @@
 
 # Hi there 👋
 ---
-<a href="https://github.com/YoshySET">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=YoshySET&show_icons=true&count_private=true&theme=shadow_blue" />
 </a>
-<a href="https://github.com/YoshySET">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshySET&layout=compact&theme=shadow_blue" />
+<a href="#">
+  <img width="35%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshySET&layout=compact&theme=shadow_blue" />
 </a>
 
 
@@ -33,15 +33,15 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/_RyTech">
     <img height="20" src="https://img.shields.io/twitter/follow/YoshySET?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/YoshySET">
+  <a href="#">
     <img height="20" src="https://img.shields.io/github/followers/YoshySET?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://github.com/YoshySET">
+  <a href="#">
     <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
   </a>
-  <a href="https://github.com/YoshySET">
+  <a href="#">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
     <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
   </a>
